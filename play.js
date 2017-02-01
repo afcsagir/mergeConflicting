@@ -6,5 +6,21 @@ gulp.task('webserver', function() {
     livereload: true
   });
 });
-
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
