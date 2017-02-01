@@ -6,5 +6,10 @@ gulp.task('webserver', function() {
     livereload: true
   });
 });
+connect.server({
+    livereload: true
+  });
+});
 
+gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
