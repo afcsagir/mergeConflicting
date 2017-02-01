@@ -6,6 +6,7 @@ gulp.task('webserver', function() {
     livereload: true
   });
 });
+<<<<<<< HEAD
 gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
@@ -22,5 +23,12 @@ gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
 gulp.task('default', ['webserver']);
-gulp.task('default', ['webserver']);
-gulp.task('default', ['webserver']);
+=======
+connect.server({
+    livereload: true
+  });
+});
+
+
+
+
